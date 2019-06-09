@@ -36,6 +36,10 @@ A Java Development Kit (JDK) is required to compile and run the Java code that y
 
     - Run the program using the `java` command: ```java HelloWorld```
 
+### Basic features of a Java program
+
+All Java code must be in a class.
+
 ## Variables
 
 Variables have a name, data type and value. A variable must be declared with its type, and may be initialised with a value of the appropriate type. Declare a variable as follows: [type] [variable name] = [value]
@@ -45,3 +49,19 @@ eg. `int count = 2` declares a variable named `count` assigned to an initial val
 If the variable is not initialised, it takes on the default value for its data type.
 
 eg. `int count` declares a variable named `count` assigned to an initial value of 0, which is the default value for the type `int`
+
+## Methods
+
+## Program flow
+
+### For loops
+
+### While loops
+
+## Object-Oriented Programming
+
+[comment]: # (Object-oriented programming (OOP) is a programming paradigm in which programs are organised around collections of objects and interactions between them, as opposed to following a set of instructions step by step. An object consists of its identity, state, and behaviour.)
+
+## Data Structures and Algorithms
+
+## Graphics with Processing
