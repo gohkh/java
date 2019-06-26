@@ -60,7 +60,7 @@ eg. `int count` declares a variable named `count` assigned to an initial value o
 
 ## Object-Oriented Programming
 
-[comment]: # (Object-oriented programming (OOP) is a programming paradigm in which programs are organised around collections of objects and interactions between them, as opposed to following a set of instructions step by step. An object consists of its identity, state, and behaviour.)
+[comment]: # "Object-oriented programming (OOP) is a programming paradigm in which programs are organised around collections of objects and interactions between them, as opposed to following a set of instructions step by step. An object consists of its identity, state, and behaviour."
 
 ## Data Structures and Algorithms
 
